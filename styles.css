@@ -37,3 +37,16 @@ footer {
 h1, aside nav a, footer, section.queen, section.jumbotron {
     text-align: center;
 }
+
+/*0-0-2 */
+section h2 {
+    color: #deb759;
+}
+/*0-0-3 */
+section > article > h2 {
+    color: #deb759;
+}
+/*0-0-2 */
+h3 + p {
+    color: white;
+}
