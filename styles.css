@@ -1,0 +1,39 @@
+body {
+    background-color: #2d515c;
+    color: #deb759;
+    max-width: 900px;
+    margin: auto;
+}
+
+header {
+    margin: 35px 0;
+    font-size: 20px;
+}
+
+a {
+    color: rgb(192, 186, 186);
+}
+
+section.jumbotron {
+    background-image: url("https://marketplace.canva.com/EAForgLXH9k/1/0/900w/canva-black-gold-luxury-glitter-phone-wallpaper-QlvMW4YlutI.jpg");
+    padding: 50px 0;
+    font-size: 25px;
+    opacity: 0.7;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+aside nav a {
+    display: block;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+
+h1, aside nav a, footer, section.queen, section.jumbotron {
+    text-align: center;
+}
